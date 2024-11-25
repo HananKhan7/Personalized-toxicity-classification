@@ -44,6 +44,4 @@ The `Optimisation` folder focuses on finding the best combination of user profil
 3. **5-Trait Random Search Optimization**: 
    - The final experiment tests combinations of exactly five traits at a time to find the most effective set of traits for toxicity prediction.
 
-Each optimization experiment generates results that help in selecting the most impactful traits to enhance the model's performance.
-
 ---
